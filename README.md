@@ -1,4 +1,4 @@
-# Week6HandlerThreadAppWb
+# HandlerThreadApp
 ![MultithreadApp](https://user-images.githubusercontent.com/100588670/178143889-d163ff93-8690-4210-8cdf-735732e3323f.png)
 
 Приложение ведет бесконечный расчет числа Пи в фоновом потоке, каждый 20 секунд меняется фон секундомера, который показывает сколько времени прошло с начала расчета.
